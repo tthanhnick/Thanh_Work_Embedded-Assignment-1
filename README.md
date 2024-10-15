@@ -1,1 +1,1 @@
-# Thanh_Work_Embedded-Assignment-1
+Create my own library without using S32K144.h
